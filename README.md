@@ -12,6 +12,7 @@
    * [IDE](#ide)
    * [Project management](#project-management)
    * [PaaS](#paas)
+   * [Baas](#baas)
    * [Security and PKI](#security-and-pki)
    * [Source Code Repos](#source-code-repos)
 
@@ -55,6 +56,9 @@
 
 ## PaaS
 * [Coding](https://coding.net) - 提供永久免费的基础服务，包括但不限于代码托管，私有仓库，项目管理，演示空间，质量管理。 
+
+## BaaS
+* [sgtcloud](https://www.sgtcloud.cn) - 为游戏研发商提供服务器端引擎和Baas/Paas服务，提供全平台的sdk，每个应用独享docker容器。目前基于html5的baas服务是完全免费的。 
 
 ## Security and PKI
  * [SCANV](http://www.scanv.com/) - 免费版提供有限的 API 接口
